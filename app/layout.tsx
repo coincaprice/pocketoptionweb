@@ -1,5 +1,5 @@
 import type { Viewport } from 'next';
-import '../styles/globals.css';
+import './globals.css';
 
 export const viewport: Viewport = {
   width: 'device-width',
